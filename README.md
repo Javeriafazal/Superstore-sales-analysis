@@ -74,7 +74,7 @@ Created various charts to visualize business insights:
 
 ## 7. Sample Visualizations
 
-*(Insert your screenshots here after uploading to GitHub)*
+
 
 ---
 
